@@ -34,7 +34,7 @@ serverless plugin install -n custom-serverless-plugin
 
 This command will install the plugin via NPM and register it in `serverless.yml`.
 
-You can also install the plugin manually via NPM:
+You can also install the plugin manually via NPM::
 
 ```
 npm install --save-dev custom-serverless-plugin
